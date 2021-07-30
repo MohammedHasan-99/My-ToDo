@@ -29,9 +29,9 @@
 
 
 ## ✧ link
-**[Git hub](https://github.com/GSG-FC03/Todolist-Team1).**
+**[Git hub](https://github.com/MohammedHasan-99/My-ToDo).**
 
-**[live link](https://gsg-fc03.github.io/Todolist-Team1/)
+**[live link](https://mohammedhasan-99.github.io/My-ToDo/)
 .**
 
 ##  ✧ Main Page Design
